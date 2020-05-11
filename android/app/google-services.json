@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "853130826890",
+    "firebase_url": "https://fir-project-b2e4c.firebaseio.com",
+    "project_id": "fir-project-b2e4c",
+    "storage_bucket": "fir-project-b2e4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853130826890:android:21a0514424f06bcfff4973",
+        "android_client_info": {
+          "package_name": "com.mayurapavan.firebase_codelabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853130826890-1hsqtet5c0v9dto98eksu8hrqki8kb7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLIhjmfmimzsz7vRDYp4lvQOy5dFLOKcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853130826890-1hsqtet5c0v9dto98eksu8hrqki8kb7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
